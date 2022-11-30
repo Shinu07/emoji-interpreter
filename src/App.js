@@ -40,10 +40,10 @@ export default function App() {
       <input
         onChange={emojiInputHandler}
         style={{
-          height: "1rem",
+          height: "1.5rem",
           width: "15rem",
-          marginTop: "5rem",
-          borderRadius: "0.5rem"
+          marginTop: "2.5rem",
+          borderRadius: "1rem"
         }}
       />
       <h2> meaning {meaning} </h2>
