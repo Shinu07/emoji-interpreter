@@ -1,4 +1,4 @@
-# emoji-interpreter
+# Mark-8 emoji-interpreter
 
 This project is made by using technologies like HTML, CSS, ReactJs
 
